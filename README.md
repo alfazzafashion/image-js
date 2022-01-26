@@ -21,7 +21,15 @@ boundary rectangle (MBR), particle size and orientation, cell imaging, etc.).
 [![build status][ci-image]][ci-url]
 [![Test coverage][codecov-image]][codecov-url]
 [![npm download][download-image]][download-url]
-
+[npm-image](https://img.shields.io/npm/v/image-js.svg
+[npm-url]:https://www.npmjs.com/package/image-js
+[ci-image]:https://github.com/image-js/image-js/workflows/Node.js%20CI/badge.svg?branch=legacy
+[ci-url]:https://github.com/image-js/image-js/actions?query=workflow%3A%22Node.js+CI%22
+[codecov-image]:https://img.shields.io/codecov/c/github/image-js/image-js.svg
+[codecov-url]:https://codecov.io/gh/image-js/image-js
+[download-image]:https://img.shields.io/npm/dm/image-js.svg
+[download-url]:https://www.npmjs.com/package/image-js
+[example test]:https://github.com/alfazzafashion/image-js/tree/main/example
 </h3>
 
 ## [API Documentation](https://image-js.github.io/image-js/)
@@ -204,13 +212,3 @@ follow the instructions to install it on your OS [here](https://github.com/Autom
 ## License
 
 [MIT](./LICENSE)
-
-[npm-image](https://img.shields.io/npm/v/image-js.svg)
-- [npm-url](https://www.npmjs.com/package/image-js) 
-- [ci-image](https://github.com/image-js/image-js/workflows/Node.js%20CI/badge.svg?branch=legacy)
-- [ci-url](https://github.com/image-js/image-js/actions?query=workflow%3A%22Node.js+CI%22)
-- [codecov-image](https://img.shields.io/codecov/c/github/image-js/image-js.svg)
-- [codecov-url](https://codecov.io/gh/image-js/image-js)
-- [download-image](https://img.shields.io/npm/dm/image-js.svg)
-- [download-url](https://www.npmjs.com/package/image-js)
-- [example test](https://github.com/alfazzafashion/image-js/tree/main/example)
