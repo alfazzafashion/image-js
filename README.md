@@ -21,6 +21,8 @@ boundary rectangle (MBR), particle size and orientation, cell imaging, etc.).
 [![build status][ci-image]][ci-url]
 [![Test coverage][codecov-image]][codecov-url]
 [![npm download][download-image]][download-url]
+
+</h3>
 [npm-image](https://img.shields.io/npm/v/image-js.svg
 [npm-url]:https://www.npmjs.com/package/image-js
 [ci-image]:https://github.com/image-js/image-js/workflows/Node.js%20CI/badge.svg?branch=legacy
@@ -30,8 +32,6 @@ boundary rectangle (MBR), particle size and orientation, cell imaging, etc.).
 [download-image]:https://img.shields.io/npm/dm/image-js.svg
 [download-url]:https://www.npmjs.com/package/image-js
 [example test]:https://github.com/alfazzafashion/image-js/tree/main/example
-</h3>
-
 ## [API Documentation](https://image-js.github.io/image-js/)
 
 ## Installation
