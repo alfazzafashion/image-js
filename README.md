@@ -127,9 +127,7 @@ node index.js
 A greyscale image will be saved in the same folder.
 
 ## Examples in the browser
-
-[example-test](https://github.com/alfazzafashion/image-js/tree/main/example)
-
+> [example-test](https://github.com/alfazzafashion/image-js/tree/main/example)
 ### Load an image and convert it to grey
 
 ```html
