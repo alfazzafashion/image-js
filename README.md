@@ -21,7 +21,7 @@ boundary rectangle (MBR), particle size and orientation, cell imaging, etc.).
 [![build status][ci-image]][ci-url]
 [![Test coverage][codecov-image]][codecov-url]
 [![npm download][download-image]][download-url]
-
+[![example-test][cyclone]][download-url]
 </h3>
 
 [npm-image]: https://img.shields.io/npm/v/image-js.svg
